@@ -1,0 +1,14 @@
+{
+  "exported_at": "2026-04-02T20:00:00Z",
+  "export_method": "phantom",
+  "patient_id": "HN-PHANTOM-001",
+  "patient_name": "Phantom^HeadNeck",
+  "case_name": "H&N Carcinoma",
+  "plan_name": "VMAT 66Gy",
+  "exam_name": "PlanningCT",
+  "beamset_labels": [
+    "VMAT"
+  ],
+  "dose_type": "physical",
+  "viewer_case_id": "HN_PHANTOM_001"
+}

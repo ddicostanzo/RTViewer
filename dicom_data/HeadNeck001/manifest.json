@@ -1,0 +1,12 @@
+{
+  "exported_at": "2026-04-02T18:00:00Z",
+  "patient_id": "PHANTOM001",
+  "patient_name": "Phantom^HeadNeck",
+  "case_name": "H&N",
+  "plan_name": "HeadNeck001",
+  "beamset_labels": ["BS1"],
+  "exam_name": "PlanningCT",
+  "dose_type": "physical",
+  "export_dir": "dicom_data/HeadNeck001",
+  "viewer_case_id": "HeadNeck001"
+}
