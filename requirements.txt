@@ -1,0 +1,13 @@
+# RT Viewer — Python backend dependencies
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+numpy>=1.24.0
+pydicom>=2.4.0
+scipy>=1.11.0
+Pillow>=10.0.0
+
+# Optional — live file watcher (recommended)
+watchdog>=3.0.0
+
+# Optional — system tray launcher (required for launcher.py / EXE build)
+pystray>=0.19.0
